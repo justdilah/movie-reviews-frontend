@@ -1,5 +1,5 @@
 import React from "react";
-import './bootstrap/dist/css/bootstrap.min.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
 function RateForm({func,currentWatchlist}){
 
     const [visibility_search,setVisibility_search] = React.useState(true)

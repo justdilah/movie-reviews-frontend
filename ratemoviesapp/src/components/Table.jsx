@@ -1,7 +1,7 @@
 import React from "react";
 import data from './data/movies.json'
 import RateForm from "./RateForm";
-import './bootstrap/dist/css/bootstrap.min.css';
+// import 'bootstrap/dist/css/bootstrap.min.css';
 
 function Table(){
     const [watchlist,setWatchlist] = React.useState(data)
