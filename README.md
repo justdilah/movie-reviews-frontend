@@ -7,3 +7,5 @@
 ## Theme of the table can be changed with a click of a button 
 ## Overview of the movie and release date is automatically filled with a click of button (fetch data from moviedb api call)
 
+## Deployed on render
+Visit site: https://my-movie-reviews.onrender.com/
