@@ -1,5 +1,5 @@
 ## Movie review app
-The app is used to store the (current movie) reviews given by the user and display the data in a table
+The app is used to store the (current movie) reviews given by the user and display the data in a table.
 
 ### Deployed on render
 Visit site: https://my-movie-reviews.onrender.com/
